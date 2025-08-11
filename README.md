@@ -48,5 +48,8 @@ The focus is on unicorns that joined between **2019 and 2021**.
 
 ## 📬 Contact
 Created by **Muhammad Sohaib Ul Hassan **  
-For feedback or collaboration, feel free to connect via [GitHub](https://github.com/Sohaib015) or [LinkedIn](https://www.linkedin.com/Sohaibhassan015).
+For feedback or collaboration, feel free to connect via
+- [LinkedIn](https://www.linkedin.com/in/sohaibhassan015)
+- [GitHub](https://github.com/sohaib015)
+
 
